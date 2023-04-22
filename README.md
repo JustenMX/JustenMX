@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Justen Manni</h1>
 
+![Snake animation](https://raw.githubusercontent.com/JustenMX/JustenMX/output/github-contribution-grid-snake.svg)
+
+
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JustenMX/JustenMX/output/github-contribution-grid-snake-dark.svg">
  <img alt="snake!" src="https://raw.githubusercontent.com/JustenMX/JustenMX/output/github-contribution-grid-snake-light.svg">
