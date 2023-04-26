@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Justen Manni</h1>
 
-<p align="center"> 
+<!-- <p align="center">
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/JustenMX/count.svg" />
-</p>
+</p> -->
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JustenMX/JustenMX/output/github-contribution-grid-snake-dark.svg">
