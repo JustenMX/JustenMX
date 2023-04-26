@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Justen Manni</h1>
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/JustenMX/count.svg" />
+</p>
+
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JustenMX/JustenMX/output/github-contribution-grid-snake-dark.svg">
  <img alt="snake!" src="https://raw.githubusercontent.com/JustenMX/JustenMX/output/github-contribution-grid-snake-light.svg">
@@ -9,13 +14,13 @@
 
 - 🌱 I’m currently learning **Java, object-orientated programming, algorithms and practicing on LeetCode and CodeWars.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/JustenMX](https://github.com/JustenMX)
+- 👨‍💻 All of my projects are available at [GitHub @JustenMX](https://github.com/JustenMX)
 
 - 💬 Ask me about **MERN Stack, Java, and about my inspirations and motivations**
 
-- 📫 How to reach me **me@justenmanni.dev**
+- 📫 How to reach me [me@justenmanni.dev]("mailto:me@justenmanni.dev")
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/justenmanni/](https://www.linkedin.com/in/justenmanni/)
+- 📄 Know about my experiences [LinkedIn @justenmanni](https://www.linkedin.com/in/justenmanni/)
 
 - ⚡ Fun fact **I just don't give up, and I love fast cars :)**
 
