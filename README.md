@@ -1,5 +1,5 @@
-<h1 style="text-align: center">Hi 👋, I'm Justen Manni</h1>
-<center><img src="https://www.codewars.com/users/JustenMX/badges/large" href="https://www.codewars.com/users/JustenMX" width="500" height="" alt="codewars"/><center />
+<h1 align="center">Hi 👋, I'm Justen Manni</h1>
+<img src="https://www.codewars.com/users/JustenMX/badges/large" width="1009" height="" alt="codewars" align="center" />
 
 <!-- <p align="center">
   Visitor count<br>
@@ -25,6 +25,8 @@
 
 - ⚡ Fun fact **I just don't give up, and I love fast cars :)**
 
+#
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/justenmanni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="justenmanni" height="30" width="40" /></a>
@@ -38,3 +40,5 @@
 <p><a href="https://www.buymeacoffee.com/justenmx"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="justenmx" /></a></p><br><br>
 <br />
 <img src="https://media.giphy.com/media/iofbYa67AbBg4/giphy.gif" width="1009" height="" alt="said too much" align="center" />
+
+# 
