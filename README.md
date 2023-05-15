@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Justen Manni</h1>
-<img src="https://www.codewars.com/users/JustenMX/badges/large" width="500" height="" alt="codewars" align="center" />
+
+<p align="center">
+<img src="https://www.codewars.com/users/JustenMX/badges/large" width="500" height="" alt="codewars"/>
+</p>
 
 <!-- <p align="center">
   Visitor count<br>
