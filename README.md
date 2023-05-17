@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Justen Manni</h1>
 
 <p align="center">
-<img src="https://www.codewars.com/users/JustenMX/badges/large" href="https://www.codewars.com/users/JustenMX" width="500" height="" alt="codewars"/>
+<img src="https://www.codewars.com/users/JustenMX/badges/large" width="300" height="" alt="codewars"/>
 </p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FJustenMx&logo=leetcode&logoColor=yellow" width="230" height="" alt="LeetCode user JustenMX"/>
+
 
 <!-- <p align="center">
   Visitor count<br>
