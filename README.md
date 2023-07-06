@@ -7,7 +7,6 @@
 <p align="center">
 <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FJustenMx&logo=leetcode&logoColor=yellow" width="230" height="" alt="LeetCode user JustenMX"/>
 
-
 <!-- <p align="center">
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/JustenMX/count.svg" />
@@ -48,4 +47,6 @@
 <br />
 <img src="https://media.giphy.com/media/iofbYa67AbBg4/giphy.gif" width="1009" height="" alt="said too much" align="center" />
 
-# 
+#
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=JustenMX.JustenMX_color=green&right_color=red)
