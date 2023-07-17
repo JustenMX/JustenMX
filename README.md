@@ -17,7 +17,9 @@
  <img alt="snake!" src="https://raw.githubusercontent.com/JustenMX/JustenMX/output/github-contribution-grid-snake-light.svg">
 </picture>
 
-<h3 align="center">Im from Singapore and I am passionate about software development. I am highly self-driven and motivated to continually update my skills in an ever-changing technological landscape. I believe that being a programmer goes beyond technical skills and requires a pragmatic approach to problem-solving and innovation. I am committed to being an asset to any organization by leveraging my technical knowledge and domain expertise to create value in the marketplace with the high leverage of software economics.</h3>
+<!-- <h3 align="center">Im from Singapore and I am passionate about software development. I am highly self-driven and motivated to continually update my skills in an ever-changing technological landscape. I believe that being a programmer goes beyond technical skills and requires a pragmatic approach to problem-solving and innovation. I am committed to being an asset to any organization by leveraging my technical knowledge and domain expertise to create value in the marketplace with the high leverage of software economics.</h3> -->
+
+<h3 align="center">Professional software developer from Singapore 🇸🇬 with a passion for crafting robust and efficient solutions. 🚀 Committed to continuous learning and staying ahead in the dynamic world of technology. 💻 Dedicated to leveraging my expertise in software development to drive innovation and create impactful solutions. Strong believer in the power of teamwork and collaboration. Let's connect and build something remarkable together! 👨‍💻</h3>
 
 - 🌱 I’m currently learning **Java, object-orientated programming, algorithms and practicing on LeetCode and CodeWars.**
 
