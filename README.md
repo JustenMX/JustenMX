@@ -13,9 +13,18 @@
 </p> -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/JustenMX/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/JustenMX/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/JustenMX/snk/output/github-contribution-grid-snake.svg"
+  />
 </picture>
 
 <!-- <h3 align="center">Im from Singapore and I am passionate about software development. I am highly self-driven and motivated to continually update my skills in an ever-changing technological landscape. I believe that being a programmer goes beyond technical skills and requires a pragmatic approach to problem-solving and innovation. I am committed to being an asset to any organization by leveraging my technical knowledge and domain expertise to create value in the marketplace with the high leverage of software economics.</h3> -->
