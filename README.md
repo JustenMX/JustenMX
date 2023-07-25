@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Justen Manni</h1>
 
 <p align="center">
-<img src="https://www.codewars.com/users/JustenMX/badges/large" width="300" height="" alt="codewars"/>
+<img src="https://www.codewars.com/users/JustenMX/badges/large" width="300" alt="codewars"/>
 </p>
 
 <!-- <p align="center">
@@ -27,7 +27,9 @@
   />
 </picture>
 
-<h3 align="center">Professional software developer from Singapore 🇸🇬 with a passion for crafting robust and efficient solutions. 🚀 Committed to continuous learning and staying ahead in the dynamic world of technology. 💻 Dedicated to leveraging my expertise in software development to drive innovation and create impactful solutions. Strong believer in the power of teamwork and collaboration. Let's connect and build something remarkable together! 👨‍💻</h3>
+#
+
+Professional software developer from Singapore 🇸🇬 with a passion for crafting robust and efficient solutions. 🚀 Committed to continuous learning and staying ahead in the dynamic world of technology. 💻 Dedicated to leveraging my expertise in software development to drive innovation and create impactful solutions. Strong believer in the power of teamwork and collaboration. Let's connect and build something remarkable together! 👨‍💻
 
 - 🌱 I’m currently learning **Java, object-orientated programming, algorithms and practicing on LeetCode and CodeWars.**
 
@@ -43,9 +45,11 @@
 
 ### 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=JustenMX&theme=default&hide_border=true&include_all_commits=true&count_private=true)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=JustenMX&theme=default&hide_border=true&include_all_commits=true&count_private=true)<br/> -->
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JustenMX&theme=default&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JustenMX&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JustenMX&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
