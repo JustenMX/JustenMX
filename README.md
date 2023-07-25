@@ -31,9 +31,9 @@
 
 ### Professional software developer from Singapore 🇸🇬 with a passion for crafting robust and efficient solutions. 🚀 Committed to continuous learning and staying ahead in the dynamic world of technology. 💻 Dedicated to leveraging my expertise in software development to drive innovation and create impactful solutions. Strong believer in the power of teamwork and collaboration. Let's connect and build something remarkable together! 👨‍💻
 
-#### 🌱 I’m currently learning **Java, object-orientated programming, algorithms and practicing on LeetCode and CodeWars.**
+- #### 🌱 I’m currently learning **Java, object-orientated programming, algorithms and practicing on LeetCode and CodeWars.**
 
-#### 💬 Ask me about **MERN Stack, Java, and about my inspirations and motivations**
+- #### 💬 Ask me about **MERN Stack, Java, and about my inspirations and motivations**
 
 <!-- - 📫 How to reach me [me@justenmanni.dev]("mailto:me@justenmanni.dev")
 
