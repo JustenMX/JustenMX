@@ -31,7 +31,7 @@
 
 ### Professional software developer from Singapore 🇸🇬 with a passion for crafting robust and efficient solutions. 🚀 Committed to continuous learning and staying ahead in the dynamic world of technology. 💻 Dedicated to leveraging my expertise in software development to drive innovation and create impactful solutions. Strong believer in the power of teamwork and collaboration. Let's connect and build something remarkable together! 👨‍💻
 
-- #### 🌱 I’m currently learning **Java, object-orientated programming, algorithms and practicing on LeetCode and CodeWars.**
+- #### 🌱 I’m currently learning **Java, Springboot, object-orientated programming, algorithms and practicing on LeetCode and CodeWars.**
 
 - #### 💬 Ask me about **MERN Stack, Java, and about my inspirations and motivations**
 
@@ -48,6 +48,7 @@
 <!-- ![](https://github-readme-stats.vercel.app/api?username=JustenMX&theme=default&hide_border=true&include_all_commits=true&count_private=true)<br/> -->
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JustenMX&theme=default&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JustenMX&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JustenMX&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
 
