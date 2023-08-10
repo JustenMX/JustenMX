@@ -50,8 +50,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JustenMX&theme=default&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JustenMX&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JustenMX&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
-
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/justenmanni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="justenmanni" height="30" width="40" /></a>
@@ -73,6 +71,22 @@
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/justenmx)
 
 [![](https://visitcount.itsvg.in/api?id=JustenMX&icon=0&color=8)](https://visitcount.itsvg.in)
+
+### 🎵 Music Inspiration
+
+Currently inspired by this song:
+
+[![Music](https://img.youtube.com/vi/KdIhq1tb8Co/0.jpg)](https://www.youtube.com/watch?v=KdIhq1tb8Co&t=1m52s)
+
+**Reason for Inspiration:**
+
+This cover of the French song "Voilà" by Barbara holds a profound and touching meaning that resonates deeply with me. The lyrics, beautifully translated into English, speak of vulnerability, authenticity, and the power of being oneself. The artist's rendition brings out the raw emotions embedded in the original song.
+
+"Voilà" captures the essence of baring one's soul and unveiling one's true self to the world, despite the fear of judgment or rejection. The lyrics echo the sentiment of embracing imperfections and acknowledging that true strength lies in being genuine and unapologetically authentic. This message serves as a poignant reminder to honor our individuality and to find strength in vulnerability, a concept that I find incredibly empowering and inspiring in various aspects of life.
+
+As I listen to this rendition, I am reminded of the importance of embracing who I am and facing life's challenges with courage and authenticity. The song's emotional depth and the artist's heartfelt performance make it a source of inspiration, encouraging me to navigate life's journey with a sense of self-assuredness and honesty.
+
+---
 
 <img src="https://media.giphy.com/media/iofbYa67AbBg4/giphy.gif" width="1009" height="" alt="said too much" align="center" />
 
