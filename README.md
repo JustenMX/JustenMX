@@ -82,9 +82,7 @@ Currently inspired by this song.
 
 **Reason for Inspiration:**
 
-This cover of the French song "Voilà" by Barbara holds a profound and touching meaning that resonates deeply with me. The lyrics, beautifully translated into English, speak of vulnerability, authenticity, and the power of being oneself. The artist's rendition brings out the raw emotions embedded in the original song.
-
-"Voilà" captures the essence of baring one's soul and unveiling one's true self to the world, despite the fear of judgment or rejection. The lyrics echo the sentiment of embracing imperfections and acknowledging that true strength lies in being genuine and unapologetically authentic. This message serves as a poignant reminder to honor our individuality and to find strength in vulnerability, a concept that I find incredibly empowering and inspiring in various aspects of life.
+"Voilà" encapsulates Emma's bravery in confronting adversity, just as it mirrors my unconventional entry into Software Engineering. The song's resonance with raw emotions aligns with my coding journey, unveiling layers of learning, determination, commitment and growth, even in the face of seemingly insurmountable odds.
 
 ---
 
