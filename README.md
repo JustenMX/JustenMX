@@ -72,9 +72,11 @@
 
 [![](https://visitcount.itsvg.in/api?id=JustenMX&icon=0&color=8)](https://visitcount.itsvg.in)
 
-### 🎵 Music Inspiration
+---
 
-Currently inspired by this song:
+### 🎵 Music Inspiration:
+
+Currently inspired by this song.
 
 [![Music](https://img.youtube.com/vi/KdIhq1tb8Co/0.jpg)](https://www.youtube.com/watch?v=KdIhq1tb8Co&t=1m52s)
 
