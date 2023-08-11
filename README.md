@@ -74,15 +74,15 @@
 
 ---
 
-### 🎵 Music Inspiration:
+### 💡 Inspiration:
 
-Currently inspired by this song.
+[![Admiral McRaven's Inspiring Video](https://img.youtube.com/vi/sBAqF00gBGk/hqdefault.jpg)](https://www.youtube.com/watch?v=yaQZFhrW0fU)
 
-[![Music](https://img.youtube.com/vi/KdIhq1tb8Co/0.jpg)](https://www.youtube.com/watch?v=KdIhq1tb8Co&t=1m52s)
+**_"Make Your Bed" - A Testament to Perseverance and Human Potential_**
 
-**Reason for Inspiration:**
+The video serves as a poignant reminder that life's journey consists of both peaks and valleys, and that attitude and determination mold our victories. Discovering a renewed sense of purpose and an affirmation that the human spirit achieves remarkable feats when driven by determination is truly inspiring.
 
-"Voilà" encapsulates Emma's bravery in confronting adversity, just as it mirrors my unconventional entry into Software Engineering. The song's resonance with raw emotions aligns with my coding journey, unveiling layers of learning, determination, commitment and growth, even in the face of seemingly insurmountable odds.
+In essence, "Make Your Bed" stands as a powerful testament to the resilience of the human spirit and the remarkable accomplishments that become attainable when minds are steadfastly set on them.
 
 ---
 
