@@ -37,7 +37,7 @@ I’m currently learning
 
 - #### 🏋🏼‍♂️ I’m currently working on
 
-  - **Spring Mart** - eCommerce Full Stack Application with React frontend and Springboot backend
+  - #### **Spring Mart** - eCommerce Full Stack Application with React frontend and Springboot backend
 
     - [ ] convert frontend language from JavaScript to TypeScript
     - [ ] Stripe Integration
@@ -45,7 +45,7 @@ I’m currently learning
     - [ ] DevOps Integration, Containerization with CI/CD pipelines
     - [ ] React Native for frontend
 
-  - **Weather Watch** - React Application
+  - #### **Weather Watch** - React Application
     - [ ] convert frontend language from JavaScript to TypeScript
     - [ ] Auth0 Integration
     - [ ] Formik
