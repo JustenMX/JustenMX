@@ -44,6 +44,7 @@ I’m currently learning
     - [ ] Auth0 Integration
     - [ ] DevOps Integration, Containerization with CI/CD pipelines
     - [ ] React Native for frontend
+    - [ ] Marketing Automation (Integration)
 
   - #### **Weather Watch** - React Application
     - [ ] convert frontend language from JavaScript to TypeScript
