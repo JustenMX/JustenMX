@@ -33,9 +33,15 @@
 
 I’m currently learning
 
-- #### 🌱 I’m currently learning **TypeScript, DevOps, React Native and practicing on CodeWars.**
+- #### 📚 Software Engineer Undergraduate at **University of Portsmouth.**
+
+- #### 🌱 I’m currently learning **TypeScript and practicing on CodeWars.**
 
 - #### 🏋🏼‍♂️ I’m currently working on
+
+  - #### **SETAP Project** - Full Stack Application with React frontend and Springboot backend
+
+    This project is part of the coursework for the Software Engineering Theory and Principle (SETAP) course, which is a requirement for the Software Engineering degree. The project involves developing a full stack application, utilizing a React frontend and a Java backend.
 
   - #### **Spring Mart** - eCommerce Full Stack Application with React frontend and Springboot backend
 
