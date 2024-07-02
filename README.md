@@ -31,8 +31,6 @@
 
 ### Professional software developer from Singapore 🇸🇬 with a passion for crafting robust and efficient solutions. 🚀 Committed to continuous learning and staying ahead in the dynamic world of technology. 💻 Dedicated to leveraging my expertise in software development to drive innovation and create impactful solutions. Strong believer in the power of teamwork and collaboration. Let's connect and build something remarkable together! 👨‍💻
 
-I’m currently learning
-
 - #### 📚 Software Engineer Undergraduate at **University of Portsmouth.**
 
 - #### 🌱 I’m currently learning **TypeScript and practicing on CodeWars.**
