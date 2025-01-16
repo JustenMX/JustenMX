@@ -31,15 +31,11 @@
 
 ### Professional software developer from Singapore 🇸🇬 with a passion for crafting robust and efficient solutions. 🚀 Committed to continuous learning and staying ahead in the dynamic world of technology. 💻 Dedicated to leveraging my expertise in software development to drive innovation and create impactful solutions. Strong believer in the power of teamwork and collaboration. Let's connect and build something remarkable together! 👨‍💻
 
-- #### 📚 Software Engineer Undergraduate at **University of Portsmouth.**
+- #### 📚 Computer Science Undergraduate at **University of Portsmouth.**
 
-- #### 🌱 I’m currently learning **TypeScript and practicing on CodeWars.**
+- #### 🌱 I’m currently learning **TypeScript, Google Cloud, AWS and practicing on CodeWars.**
 
 - #### 🏋🏼‍♂️ I’m currently working on
-
-  - #### **SETAP Project** - Full Stack Application with React frontend and Springboot backend
-
-    This project is part of the coursework for the Software Engineering Theory and Principle (SETAP) course, which is a requirement for the Software Engineering degree. The project involves developing a full stack application, utilizing a React frontend and a Java backend.
 
   - #### **Spring Mart** - eCommerce Full Stack Application with React frontend and Springboot backend
 
@@ -60,7 +56,7 @@
 
 - #### 💬 Ask me about **MERN Full Stack Development, Java Full Stack Development, and about my inspirations and motivations**
 
-<!-- - 📫 How to reach me [me@justenmanni.dev]("mailto:me@justenmanni.dev")
+<!-- - 📫 How to reach me [justen@justenmanni.dev]("mailto:justen@justenmanni.dev")
 
 - 👨‍💻 All of my projects are available at [GitHub @JustenMX](https://github.com/JustenMX)
 
