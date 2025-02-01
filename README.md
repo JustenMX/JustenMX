@@ -29,45 +29,30 @@
 
 #
 
-### Full Stack Developer from Singapore 🇸🇬. I’ve always been involved in technology, but my true ambition has been to become a software engineer because of my love for programming. Starting in digital marketing, I was drawn to problem-solving and creating impactful solutions, which eventually led me to product management. However, my passion for coding drove me to make the transition into software development, where I now focus on building innovative solutions through code.
-
+### Full Stack Developer from Singapore 🇸🇬, specializing in building robust and scalable web applications. He focuses on delivering seamless user experiences, combining clean, intuitive front-end interfaces with efficient back-end systems.
 
 - #### 📚 Computer Science Undergraduate at **University of Portsmouth.**
 
 - #### 🌱 I’m currently learning **TypeScript, Google Cloud, AWS and practicing on CodeWars.**
 
-[//]: # (- #### 🏋🏼‍♂️ I’m currently working on)
-
-[//]: # ()
-[//]: # (  - #### **Spring Mart** - eCommerce Full Stack Application with React frontend and Springboot backend)
-
-[//]: # ()
-[//]: # (    - [ ] convert frontend language from JavaScript to TypeScript)
-
-[//]: # (    - [ ] Stripe Integration)
-
-[//]: # (    - [ ] Auth0 Integration)
-
-[//]: # (    - [ ] DevOps Integration, Containerization with CI/CD pipelines)
-
-[//]: # (    - [ ] React Native for frontend)
-
-[//]: # (    - [ ] Marketing Automation &#40;Integration&#41;)
-
-[//]: # ()
-[//]: # (  - #### **Weather Watch** - React Application)
-
-[//]: # (    - [ ] convert frontend language from JavaScript to TypeScript)
-
-[//]: # (    - [ ] Auth0 Integration)
-
-[//]: # (    - [ ] Formik)
-
-[//]: # (    - [ ] convert to PERN stack)
-
-[//]: # (    - [ ] DevOps Integration, Containerization with CI/CD pipelines)
-
-[//]: # (    - [ ] React Native for frontend)
+[//]: # "- #### 🏋🏼‍♂️ I’m currently working on"
+[//]: #
+[//]: # "  - #### **Spring Mart** - eCommerce Full Stack Application with React frontend and Springboot backend"
+[//]: #
+[//]: # "    - [ ] convert frontend language from JavaScript to TypeScript"
+[//]: # "    - [ ] Stripe Integration"
+[//]: # "    - [ ] Auth0 Integration"
+[//]: # "    - [ ] DevOps Integration, Containerization with CI/CD pipelines"
+[//]: # "    - [ ] React Native for frontend"
+[//]: # "    - [ ] Marketing Automation (Integration)"
+[//]: #
+[//]: # "  - #### **Weather Watch** - React Application"
+[//]: # "    - [ ] convert frontend language from JavaScript to TypeScript"
+[//]: # "    - [ ] Auth0 Integration"
+[//]: # "    - [ ] Formik"
+[//]: # "    - [ ] convert to PERN stack"
+[//]: # "    - [ ] DevOps Integration, Containerization with CI/CD pipelines"
+[//]: # "    - [ ] React Native for frontend"
 
 - #### 💬 Ask me about **MERN Full Stack Development, Java Full Stack Development, and about my inspirations and motivations**
 
