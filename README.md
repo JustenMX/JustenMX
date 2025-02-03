@@ -33,7 +33,7 @@
 
 - #### 📚 Computer Science Undergraduate at **University of Portsmouth.**
 
-- #### 🌱 I’m currently learning **Google Cloud, AWS and practicing on CodeWars.**
+- #### 🌱 I’m currently learning advanced **Data Structures and Algorithms.**
 
 [//]: # "- #### 🏋🏼‍♂️ I’m currently working on"
 [//]: #
@@ -54,7 +54,7 @@
 [//]: # "    - [ ] DevOps Integration, Containerization with CI/CD pipelines"
 [//]: # "    - [ ] React Native for frontend"
 
-- #### 💬 Ask me about **MERN Full Stack Development, Java Full Stack Development, and about my inspirations and motivations**
+- #### 💬 Ask me about **Full Stack Development, and about my inspirations and motivations**
 
 <!-- - 📫 How to reach me [justen@justenmanni.dev]("mailto:justen@justenmanni.dev")
 
