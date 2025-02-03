@@ -29,11 +29,11 @@
 
 #
 
-### Full Stack Developer from Singapore 🇸🇬, specializing in building robust and scalable web applications. He focuses on delivering seamless user experiences, combining clean, intuitive front-end interfaces with efficient back-end systems.
+### Full Stack Developer based in Singapore 🇸🇬, specialising in building robust and scalable web applications. Focuses on delivering seamless user experiences, combining clean, intuitive front-end interfaces with efficient back-end systems.
 
 - #### 📚 Computer Science Undergraduate at **University of Portsmouth.**
 
-- #### 🌱 I’m currently learning **TypeScript, Google Cloud, AWS and practicing on CodeWars.**
+- #### 🌱 I’m currently learning **Google Cloud, AWS and practicing on CodeWars.**
 
 [//]: # "- #### 🏋🏼‍♂️ I’m currently working on"
 [//]: #
