@@ -16,15 +16,15 @@
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/JustenMX/JustenMX/output/github-contribution-grid-snake-dark.svg"
-  />
+  >
   <source
     media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/JustenMX/JustenMX/output/github-contribution-grid-snake.svg"
-  />
+  >
   <img
     alt="github contribution grid snake animation"
     src="https://raw.githubusercontent.com/JustenMX/JustenMX/output/github-contribution-grid-snake.svg"
-  />
+  >
 </picture>
 
 #
@@ -33,9 +33,9 @@
 
 - #### 📚 Computer Science Undergraduate at **University of Portsmouth.**
 
-- #### 🌱 I’m currently learning advanced **Data Structures and Algorithms.**
+- #### 🌱 I'm currently learning advanced **Data Structures and Algorithms.**
 
-[//]: # "- #### 🏋🏼‍♂️ I’m currently working on"
+[//]: # "- #### 🏋🏼‍♂️ I'm currently working on"
 [//]: #
 [//]: # "  - #### **Spring Mart** - eCommerce Full Stack Application with React frontend and Springboot backend"
 [//]: #
