@@ -31,9 +31,9 @@
 
 ### Full Stack Developer based in Singapore 🇸🇬, specialising in building robust and scalable web applications. Focuses on delivering seamless user experiences, combining clean, intuitive front-end interfaces with efficient back-end systems.
 
-- #### 📚 Computer Science Undergraduate at **University of Portsmouth.**
+- #### 📚 Computer Science graduate from **University of Portsmouth, United Kingdom.**
 
-- #### 🌱 I'm currently learning advanced **Data Structures and Algorithms.**
+[//]: # (- #### 🌱 I'm currently learning advanced **Data Structures and Algorithms.**)
 
 [//]: # "- #### 🏋🏼‍♂️ I'm currently working on"
 [//]: #
